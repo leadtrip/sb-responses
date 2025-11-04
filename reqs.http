@@ -30,8 +30,8 @@ GET {{root_url}}/fourteen
 ###
 GET {{root_url}}/fifteen
 ###
-GET {{root_url}}/rider-one
+GET {{root_url}}/sixteen
 ###
-GET {{root_url}}/rider-two
+GET {{root_url}}/seventeen
 ###
-GET {{root_url}}/rider-three
+GET {{root_url}}/eighteen
