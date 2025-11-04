@@ -1,0 +1,37 @@
+@root_url=http://localhost:19000
+
+GET {{root_url}}/one
+###
+GET {{root_url}}/two
+###
+GET {{root_url}}/three
+###
+GET {{root_url}}/four
+###
+GET {{root_url}}/five
+###
+GET {{root_url}}/six
+###
+GET {{root_url}}/seven
+###
+GET {{root_url}}/eight
+###
+GET {{root_url}}/nine
+###
+GET {{root_url}}/ten
+###
+GET {{root_url}}/eleven
+###
+GET {{root_url}}/twelve
+###
+GET {{root_url}}/thirteen
+###
+GET {{root_url}}/fourteen
+###
+GET {{root_url}}/fifteen
+###
+GET {{root_url}}/rider-one
+###
+GET {{root_url}}/rider-two
+###
+GET {{root_url}}/rider-three
