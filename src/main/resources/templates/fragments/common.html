@@ -1,0 +1,9 @@
+<span th:fragment="id">
+    You gave me <span th:text="${id}"></span>
+</span>
+
+<div th:fragment="messages">
+    <ul th:each="msg : ${messages}">
+        <li th:text="${msg}">1</li>
+    </ul>
+</div>

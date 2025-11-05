@@ -35,3 +35,16 @@ GET {{root_url}}/sixteen
 GET {{root_url}}/seventeen
 ###
 GET {{root_url}}/eighteen
+###
+GET {{root_url}}/nineteen
+###
+GET {{root_url}}/twenty
+###
+GET {{root_url}}/twentyone
+###
+GET {{root_url}}/twentytwo
+###
+GET {{root_url}}/twentythree
+###
+GET {{root_url}}/twentyfour
+Accept: text/event-stream
